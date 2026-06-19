@@ -16,7 +16,7 @@ export default function Contact() {
     const message = encodeURIComponent(
       `Halo RECLO!\n\nNama: ${form.name}\nEmail: ${form.email}\n\nPesan:\n${form.message}`
     );
-    window.open(`https://wa.me/6285649370795?text=${message}`, "_blank");
+    window.open(`https://wa.me/6285805615543?text=${message}`, "_blank");
     setSending(false);
     toast({ title: "Pesan dikirim ke WhatsApp!" });
     setForm({ name: "", email: "", message: "" });
@@ -111,7 +111,7 @@ export default function Contact() {
               </h2>
               <div className="space-y-6">
                 <a
-                  href="https://wa.me/6285649370795"
+                  href="https://wa.me/6285805615543"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-4 p-5 border border-border hover:border-primary/30 transition-colors group"
@@ -145,7 +145,7 @@ export default function Contact() {
                   </div>
                 </a>
                 <a
-                  href="tel:+6285649370795"
+                  href="tel:+6285805615543"
                   className="flex items-center gap-4 p-5 border border-border hover:border-primary/30 transition-colors group"
                 >
                   <Phone size={20} className="text-primary shrink-0" />

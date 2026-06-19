@@ -43,7 +43,7 @@ export default function Footer() {
               <a href="mailto:reclo@gmail.com" className="flex items-center gap-3 font-body text-sm text-background/60 hover:text-background transition-colors">
                 <Mail size={16} /> reclo@gmail.com
               </a>
-              <a href="tel:+6285649370795" className="flex items-center gap-3 font-body text-sm text-background/60 hover:text-background transition-colors">
+              <a href="tel:+6285805615543" className="flex items-center gap-3 font-body text-sm text-background/60 hover:text-background transition-colors">
                 <Phone size={16} /> +62 856-4937-0795
               </a>
               <span className="flex items-start gap-3 font-body text-sm text-background/60">
