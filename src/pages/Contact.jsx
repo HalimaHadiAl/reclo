@@ -119,7 +119,7 @@ export default function Contact() {
                   <MessageCircle size={20} className="text-primary shrink-0" />
                   <div>
                     <p className="font-body text-xs text-muted-foreground tracking-wider uppercase">WhatsApp</p>
-                    <p className="font-body text-sm text-foreground group-hover:text-primary transition-colors">+62 856-4937-0795</p>
+                    <p className="font-body text-sm text-foreground group-hover:text-primary transition-colors">+62 858-0561-5543</p>
                   </div>
                 </a>
                 <a
@@ -151,7 +151,7 @@ export default function Contact() {
                   <Phone size={20} className="text-primary shrink-0" />
                   <div>
                     <p className="font-body text-xs text-muted-foreground tracking-wider uppercase">Telepon</p>
-                    <p className="font-body text-sm text-foreground group-hover:text-primary transition-colors">+62 856-4937-0795</p>
+                    <p className="font-body text-sm text-foreground group-hover:text-primary transition-colors">+62 858-0561-5543</p>
                   </div>
                 </a>
                 <div className="flex items-start gap-4 p-5 border border-border">

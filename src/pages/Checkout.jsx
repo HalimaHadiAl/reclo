@@ -92,7 +92,7 @@ export default function Checkout() {
         const message = encodeURIComponent(
           `Halo RECLO! Saya ingin booking kebaya:\n\nNomor Order: ${orderNumber}\nKebaya: ${kebaya.name}\nUkuran: ${form.size}\nTanggal Sewa: ${form.rental_date} s/d ${form.return_date}\nTotal: ${formatPrice(totalPrice)}\n\nNama: ${form.customer_name}\nEmail: ${form.customer_email}\nTelp: ${form.customer_phone}`
         );
-        window.open(`https://wa.me/6281234567890?text=${message}`, "_blank");
+        window.open(`https://wa.me/6285805615543?text=${message}`, "_blank");
       }, 2000);
     }
   };
