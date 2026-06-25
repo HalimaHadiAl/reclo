@@ -6,7 +6,7 @@ import KebayaCard from "@/components/reclo/KebayaCard";
 import { Loader2, SlidersHorizontal, X } from "lucide-react";
 import { motion } from "framer-motion";
 
-const categories = ["Semua", "Wisuda", "Lamaran", "Pernikahan", "Akad", "Kondangan", "Photoshoot"];
+const categories = ["Semua", "Wisuda", "Lamaran", "Pernikahan", "Akad", "Kondangan"];
 const colorOptions = [
   { name: "Semua", hex: null },
   { name: "Putih", hex: "#FFFFFF" },
